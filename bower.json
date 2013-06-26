@@ -1,0 +1,7 @@
+{
+  "name": "bower-pdfjs",
+  "version": "0.5.5",
+  "main": "./pdf.js",
+  "readme": "bower-pdfjs\n=====================\n\npdf.js bower repo",
+  "readmeFilename": "README.md",
+}
